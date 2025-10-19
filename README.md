@@ -1,3 +1,6 @@
+<div align="center">
+  <img src='drawings/logo.svg' width='200'/>
+</div>
 <h1 align="center">
   wc-alacritty
 </h1>

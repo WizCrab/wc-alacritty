@@ -2,5 +2,5 @@
 bindings = [
 { key = "Return", mods = "Super|Shift", action = "SpawnNewInstance" },
 { key = "Backspace", mods = "Super|Shift", action = "Quit" },
-{ key = "V", mods = "Control|Shift", action = "ToggleViMode" }
+{ key = "E", mods = "Control|Shift", action = "ToggleViMode" }
 ]

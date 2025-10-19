@@ -1,4 +1,6 @@
 [keyboard]
 bindings = [
-{ key = "Return", mods = "Super|Shift", action = "SpawnNewInstance" }
+{ key = "Return", mods = "Super|Shift", action = "SpawnNewInstance" },
+{ key = "Backspace", mods = "Super|Shift", action = "Quit" },
+{ key = "V", mods = "Control|Shift", action = "ToggleViMode" }
 ]

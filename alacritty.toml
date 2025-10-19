@@ -1,0 +1,13 @@
+[general]
+import = [
+    "~/.config/alacritty/theme.toml",
+    "~/.config/alacritty/window.toml",
+    "~/.config/alacritty/font.toml",
+    "~/.config/alacritty/bindings.toml",
+    "~/.config/alacritty/cursor.toml"
+]
+[scrolling]
+history = 10000
+multiplier = 3
+[mouse]
+hide_when_typing = true

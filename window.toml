@@ -1,0 +1,6 @@
+[window]
+padding = { x = 15, y = 10 }
+dynamic_padding = true
+opacity = 0.8 # for the background
+blur = true # for the background
+decorations_theme_variant = "Dark" 

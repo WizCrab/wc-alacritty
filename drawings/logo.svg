@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
+       id="linearGradient6"><stop
+         style="stop-color:#70c8ff;stop-opacity:1;"
+         offset="0"
+         id="stop6" /><stop
+         style="stop-color:#0088e8;stop-opacity:1;"
+         offset="0.89130437"
+         id="stop7" /></linearGradient><linearGradient
+       id="linearGradient4"><stop
+         style="stop-color:#db0f00;stop-opacity:1;"
+         offset="0"
+         id="stop4" /><stop
+         style="stop-color:#ffaa00;stop-opacity:1;"
+         offset="1"
+         id="stop5" /></linearGradient><linearGradient
+       xlink:href="#linearGradient4"
+       id="linearGradient5"
+       x1="255.05046"
+       y1="74.997017"
+       x2="255.05046"
+       y2="464.91046"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.198328,0,0,1.198328,-49.634089,-77.941098)" /><linearGradient
+       xlink:href="#linearGradient6"
+       id="linearGradient7"
+       x1="255.37775"
+       y1="303.05731"
+       x2="255.37775"
+       y2="386.80103"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.198328,0,0,1.198328,-50.026296,-77.941098)" /></defs><g
+     id="layer1"><g
+       id="g8"><path
+         style="fill:url(#linearGradient5);fill-opacity:1;stroke:none;stroke-width:0.599164;stroke-linejoin:round"
+         d="M 22.377919,461.60752 202.70143,29.496497 H 309.69781 L 489.62208,461.2083 H 399.87461 L 256.46342,101.98373 111.86077,461.57072 Z"
+         id="path2" /><path
+         style="fill:url(#linearGradient7);fill-opacity:1;stroke:none;stroke-width:0.537887;stroke-linejoin:round"
+         d="m 256.06649,173.95394 -50.2427,129.4386 50.24271,193.44789 50.1097,-193.45857 z"
+         id="path3" /></g></g></svg>

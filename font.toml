@@ -3,4 +3,4 @@ normal = { family = "JetBrainsMono Nerd Font", style ="Medium" }
 bold = { family = "JetBrainsMono Nerd Font", style ="Bold" }
 italic = { family = "JetBrainsMono Nerd Font", style ="Medium Italic" }
 bold_italic = { family = "JetBrainsMono Nerd Font", style ="Bold Italic" }
-size = 12.5
+size = 13.2

@@ -29,7 +29,7 @@
     </tr>
     <tr>
       <td align="left">
-        🧛🏻 Dracula Plus theme
+        🧛🏻 Dracula theme
       </td>
     </tr>
     <tr>

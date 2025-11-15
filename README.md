@@ -42,6 +42,7 @@
 
 ### Fast setup:
 ```bash
+# (You need to install JetBrainsMono Nerd Fonts for your system first!)
 cd ~/.config && git clone https://github.com/WizCrab/wc-alacritty alacritty
 ```
 

@@ -5,3 +5,4 @@ startup_mode = "Maximized"
 opacity = 1 # for the background
 blur = false # for the background
 decorations_theme_variant = "Dark" 
+decorations = "None"
